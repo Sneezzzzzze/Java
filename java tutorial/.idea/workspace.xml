@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0217b149-ef6e-4bc9-9f7a-1ec55d254ce0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2JFqYRWqZcMyllG8SmENXUsC1QI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Junbeom/Desktop/term2/OOP/Lab03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0217b149-ef6e-4bc9-9f7a-1ec55d254ce0" name="Changes" comment="" />
+      <created>1671684228544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671684228544</updated>
+      <workItem from="1671684228544" duration="38000" />
+      <workItem from="1673858681285" duration="42000" />
+      <workItem from="1673858773501" duration="286000" />
+      <workItem from="1673859161309" duration="37000" />
+      <workItem from="1673859315535" duration="131000" />
+      <workItem from="1673859571440" duration="24000" />
+      <workItem from="1673859889177" duration="53000" />
+      <workItem from="1673859955903" duration="92000" />
+      <workItem from="1673860136261" duration="352000" />
+      <workItem from="1673860507576" duration="51000" />
+      <workItem from="1673862523957" duration="14000" />
+      <workItem from="1673864442419" duration="1365000" />
+      <workItem from="1674560407573" duration="34000" />
+      <workItem from="1675074702927" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
